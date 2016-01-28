@@ -24,7 +24,7 @@ public class Peamurdja3_laevad {
                 laud[i][j] = randlaev();
             }
         };
-
+//update text bla bla
         for (int i=0; i < 9, i++); {
 
         }
